@@ -23,11 +23,11 @@ The application works with sample feedback and a simulated AI provider by defaul
 To enable Gemini, copy .env.example to .env.local, set GEMINI_API_KEY, and restart the development server, follow:
 
 cp .env.example .env.local
-### add your key, GEMINI_API_KEY=<your key>
+add your key, GEMINI_API_KEY=<your key>
 npm run dev
 
 
-### For testing
+#### For testing
 npm test
 
 ## 2. Architecture and Data
