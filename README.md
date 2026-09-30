@@ -13,22 +13,22 @@ An inbox-style triage tool designed for Ocado Retail’s customer service team. 
 ## 1. Setup
 *Requires Node 20+*
 
-cd FeedbackTriage
-npm install
-npm run dev
+- cd FeedbackTriage
+- npm install
+- npm run dev
 
 Open the local URL printed by Vite. Example: http://localhost:5173/
 
 The application works with sample feedback and a simulated AI provider by default. 
 To enable Gemini, copy .env.example to .env.local, set GEMINI_API_KEY, and restart the development server, follow:
 
-cp .env.example .env.local
+- cp .env.example .env.local
 <!-- add your key, GEMINI_API_KEY=<your key> -->
-npm run dev
+- npm run dev
 
 
 **For testing**
-npm test
+- npm test
 
 ## 2. Architecture and Data
 
