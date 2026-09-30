@@ -67,5 +67,4 @@ Responses stream from Gemini over server-sent events (SSE) and are parsed increm
 
 
 ## 4. AI Tools During Development
-
 I used Claude as a development assistant, mainly for scaffolding, drafting tests, and reviewing code and to structure README contents. I made the architecture and product decisions, and reviewed and tested all code before including it.
