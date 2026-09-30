@@ -3,15 +3,15 @@
 An inbox-style triage tool designed for Ocado Retail’s customer service team. Customer service agents can quickly browse, search and filter customer feedback, open individual items, and use "Summarise & categorise" to get a live AI-generated analysis from Google Gemini.
 
 ## Tech Stack
-React 19 (JavaScript & JSX)
-Vite
-Tailwind CSS v4
-Zustand
-react-markdown
-Vitest & React Testing Library
+- React 19 (JavaScript & JSX)
+- Vite
+- Tailwind CSS v4
+- Zustand
+- react-markdown
+- Vitest & React Testing Library
 
 ## 1. Setup
-Requires Node 20+
+*Requires Node 20+*
 
 cd FeedbackTriage
 npm install
